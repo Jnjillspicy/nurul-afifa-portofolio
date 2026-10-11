@@ -9,7 +9,7 @@
 */
 const VIDEO_PROJECTS = [
   {
-    title: "Cargoku — Brand Content",
+    title: "Cargoku - Brand Content",
     category: "BRAND CONTENT · 01",
     description: "Video untuk Cargoku dengan identitas brand serta informasi kanal digital sebagai bagian dari materi promosi.",
     role: "Scriptwriting · Voice-over",
@@ -17,7 +17,7 @@ const VIDEO_PROJECTS = [
     driveUrl: "https://drive.google.com/file/d/1hSj4GpD3vqY1b-kwH72LgxV-cMJ5hxQx/view"
   },
   {
-    title: "Batas Maksimum Kirim Pesan",
+    title: "Trendind Ads - Batas Maksimum Kirim Pesan",
     category: "INFORMATIVE CONTENT · 02",
     description: "Konten informatif yang memadukan presenter dan visual pendukung untuk menyampaikan informasi secara ringkas.",
     role: "Scriptwriting · On-camera talent",
@@ -25,7 +25,7 @@ const VIDEO_PROJECTS = [
     driveUrl: "https://drive.google.com/file/d/1DcyzyZ3m2gogOswe4od1P7HvJ_jAVoQF/view"
   },
   {
-    title: "Informasi Layanan Pengiriman",
+    title: "Cargoku - Informasi Layanan Pengiriman",
     category: "SERVICE CONTENT · 03",
     description: "Video situasional yang menampilkan notifikasi terkait layanan pengiriman dan contoh komunikasi kepada pelanggan.",
     role: "Scriptwriting · Talent",
@@ -33,7 +33,7 @@ const VIDEO_PROJECTS = [
     driveUrl: "https://drive.google.com/file/d/1MnSYbenPXcSakt0Mm65DYwhhmJ035MXT/view"
   },
   {
-    title: "Promosi Lewat Sebar Brosur",
+    title: "Trending Ads - Promosi Lewat Sebar Brosur",
     category: "PROMOTIONAL CONTENT · 04",
     description: "Video promosi yang menampilkan aktivitas membagikan brosur untuk memperkenalkan layanan kepada calon pelanggan.",
     role: "Scriptwriting · Talent",
@@ -41,7 +41,7 @@ const VIDEO_PROJECTS = [
     driveUrl: "https://drive.google.com/file/d/1fABt6po5fv3v8mlnW8fDSIJJXQWdJtCu/view"
   },
   {
-    title: "Custom Banner Sesukamu!",
+    title: "Cetakers - Custom Banner Sesukamu!",
     category: "PRODUCT PROMOTION · 05",
     description: "Konten promosi layanan custom banner, didukung penjelasan presenter dan visual proses percetakan.",
     role: "Scriptwriting · On-camera talent",
