@@ -312,7 +312,7 @@ document.querySelectorAll("[data-cv-link]").forEach((link) => {
     try {
       const response = await fetch(fileUrl, { method: "HEAD", cache: "no-store" });
       if (!response.ok) {
-        showToast("File CV belum tersedia. Letakkan PDF di assets/nurul-afifa-cv.pdf terlebih dahulu.");
+        showToast("File CV belum tersedia. Terima kasih 😊.");
         return;
       }
 
